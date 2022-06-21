@@ -1054,6 +1054,6 @@ section .container {
 
 .ball {
   position: absolute;
-  border-radius: 90%;
-  opacity: 0.7;
+  border-radius: 100%;
+  opacity: 0.6;
 }
